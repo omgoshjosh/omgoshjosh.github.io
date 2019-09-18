@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: omgoshjosh.github.io
+Token: 58f5839d9b56fcbceb514702b7bbe65ad6a807eb77f97d4e90f6413c8d12f641
